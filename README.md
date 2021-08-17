@@ -4,7 +4,7 @@
 
 Hosted on AWS, using serverless architecture. Fast and scalable.
 
-** Services **
+**Services**
 
 - Lambda
 - API Gateway
